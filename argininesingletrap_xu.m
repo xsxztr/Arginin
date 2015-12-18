@@ -1,5 +1,5 @@
 % PNP + LJ
-%%orignal code is written by Alleb
+%%orignal code is written by Tzyy-Leng Horng 
 %%revised by shixin xu
 function argininesingletrap_xu
 clear all;
